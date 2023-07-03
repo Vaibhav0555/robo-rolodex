@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robo-rolodex/static/css/main.a5f761fe.css",
+    "main.js": "/robo-rolodex/static/js/main.aae64b36.js",
+    "static/js/787.26e2f50b.chunk.js": "/robo-rolodex/static/js/787.26e2f50b.chunk.js",
+    "index.html": "/robo-rolodex/index.html",
+    "main.a5f761fe.css.map": "/robo-rolodex/static/css/main.a5f761fe.css.map",
+    "main.aae64b36.js.map": "/robo-rolodex/static/js/main.aae64b36.js.map",
+    "787.26e2f50b.chunk.js.map": "/robo-rolodex/static/js/787.26e2f50b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f761fe.css",
+    "static/js/main.aae64b36.js"
+  ]
+}
