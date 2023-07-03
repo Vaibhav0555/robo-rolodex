@@ -1,7 +1,7 @@
-import { robots } from "./robots";
-import CardList from "./CardList";
-import SearchBox from "./SearchBox";
-import Scroll from "./scroll";
+import { robots } from "../assets/robots";
+import CardList from "../components/CardList";
+import SearchBox from "../components/SearchBox";
+import Scroll from "../components/scroll";
 import { Component, useEffect, useState } from "react";
 class App extends Component {
   constructor() {

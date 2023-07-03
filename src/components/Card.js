@@ -1,4 +1,4 @@
-import { robots } from "./robots";
+import { robots } from "../assets/robots";
 const Card = (props) => {
   const { id, name, email } = props;
   return (
